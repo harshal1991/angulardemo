@@ -1,0 +1,5 @@
+D:\SoftwareMaterial\Other Project\Angularextra\Angularextra\Angularextra\bin\Angularextra.dll
+D:\SoftwareMaterial\Other Project\Angularextra\Angularextra\Angularextra\bin\Angularextra.pdb
+D:\SoftwareMaterial\Other Project\Angularextra\Angularextra\Angularextra\obj\Debug\Angularextra.csprojResolveAssemblyReference.cache
+D:\SoftwareMaterial\Other Project\Angularextra\Angularextra\Angularextra\obj\Debug\Angularextra.dll
+D:\SoftwareMaterial\Other Project\Angularextra\Angularextra\Angularextra\obj\Debug\Angularextra.pdb
